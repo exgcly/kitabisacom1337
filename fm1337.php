@@ -142,7 +142,7 @@ $sortedFiles = array_merge($dirs, $files);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>PHP File Manager</title>
+    <title>Kitabisacom1337 - File Manager</title>
     <style>
         body {
             background: #111;
