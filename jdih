@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app213.us.archive.org';v.server_ms=2129;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://jdih.pn-muarabungo.go.id/","20250214060525","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1739513125");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="HWdrfVSwjW1iWexxw8NkLWeFEdkzZ8Ol37tbU54q">
+
+        <title inertia>JDIH_PN_MUARA_BUNGO</title>
+
+        <!-- Fonts -->
+        <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap"> -->
+        <link rel="icon" href="https://web.archive.org/web/20250214060525im_/https://jdih.pn-muarabungo.go.id/images/services/logo-jdih2.png">
+        <!-- Styles -->
+        <link rel="stylesheet" href="/web/20250214060525cs_/https://jdih.pn-muarabungo.go.id/css/app.css">
+        <link rel="stylesheet" href="https://web.archive.org/web/20250214060525cs_/https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css">
+        <!-- Scripts -->
+        <script type="text/javascript">
+    const Ziggy = {"url":"https:\/\/web.archive.org\/web\/20250214060525\/https:\/\/jdih.pn-muarabungo.go.id","port":null,"defaults":{},"routes":{"ignition.healthCheck":{"uri":"_ignition\/health-check","methods":["GET","HEAD"]},"ignition.executeSolution":{"uri":"_ignition\/execute-solution","methods":["POST"]},"ignition.shareReport":{"uri":"_ignition\/share-report","methods":["POST"]},"ignition.scripts":{"uri":"_ignition\/scripts\/{script}","methods":["GET","HEAD"]},"ignition.styles":{"uri":"_ignition\/styles\/{style}","methods":["GET","HEAD"]},"home_satker":{"uri":"\/","methods":["GET","HEAD"]},"berita-detail":{"uri":"berita-detail\/{slug}","methods":["GET","HEAD"]},"daftar-berita":{"uri":"daftar-berita","methods":["GET","HEAD"]},"detil-undang":{"uri":"detil-undang\/{slug}","methods":["GET","HEAD"]},"hasil-pencarian":{"uri":"hasil-pencarian","methods":["GET","HEAD"]},"filter-result":{"uri":"filter-result","methods":["GET","HEAD"]},"category-legal-product-all":{"uri":"category-legal-product-all","methods":["GET","HEAD"]},"category-legal-product":{"uri":"category-legal-product\/{slug}","methods":["GET","HEAD"]},"category-type-legal-product":{"uri":"category-legal-product\/{category}\/{slug}","methods":["GET","HEAD"]}}};
+
+    !function(t,r){"object"==typeof exports&&"undefined"!=typeof module?module.exports=r():"function"==typeof define&&define.amd?define(r):(t||self).route=r()}(this,function(){function t(t,r){for(var n=0;n<r.length;n++){var e=r[n];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function r(r,n,e){return n&&t(r.prototype,n),e&&t(r,e),Object.defineProperty(r,"prototype",{writable:!1}),r}function n(){return n=Object.assign||function(t){for(var r=1;r<arguments.length;r++){var n=arguments[r];for(var e in n)Object.prototype.hasOwnProperty.call(n,e)&&(t[e]=n[e])}return t},n.apply(this,arguments)}function e(t){return e=Object.setPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__||Object.getPrototypeOf(t)},e(t)}function o(t,r){return o=Object.setPrototypeOf||function(t,r){return t.__proto__=r,t},o(t,r)}function i(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){})),!0}catch(t){return!1}}function u(t,r,n){return u=i()?Reflect.construct:function(t,r,n){var e=[null];e.push.apply(e,r);var i=new(Function.bind.apply(t,e));return n&&o(i,n.prototype),i},u.apply(null,arguments)}function f(t){var r="function"==typeof Map?new Map:void 0;return f=function(t){if(null===t||-1===Function.toString.call(t).indexOf("[native code]"))return t;if("function"!=typeof t)throw new TypeError("Super expression must either be null or a function");if(void 0!==r){if(r.has(t))return r.get(t);r.set(t,n)}function n(){return u(t,arguments,e(this).constructor)}return n.prototype=Object.create(t.prototype,{constructor:{value:n,enumerable:!1,writable:!0,configurable:!0}}),o(n,t)},f(t)}var a=String.prototype.replace,c=/%20/g,l="RFC3986",s={default:l,formatters:{RFC1738:function(t){return a.call(t,c,"+")},RFC3986:function(t){return String(t)}},RFC1738:"RFC1738",RFC3986:l},v=Object.prototype.hasOwnProperty,p=Array.isArray,y=function(){for(var t=[],r=0;r<256;++r)t.push("%"+((r<16?"0":"")+r.toString(16)).toUpperCase());return t}(),d=function(t,r){for(var n=r&&r.plainObjects?Object.create(null):{},e=0;e<t.length;++e)void 0!==t[e]&&(n[e]=t[e]);return n},b={arrayToObject:d,assign:function(t,r){return Object.keys(r).reduce(function(t,n){return t[n]=r[n],t},t)},combine:function(t,r){return[].concat(t,r)},compact:function(t){for(var r=[{obj:{o:t},prop:"o"}],n=[],e=0;e<r.length;++e)for(var o=r[e],i=o.obj[o.prop],u=Object.keys(i),f=0;f<u.length;++f){var a=u[f],c=i[a];"object"==typeof c&&null!==c&&-1===n.indexOf(c)&&(r.push({obj:i,prop:a}),n.push(c))}return function(t){for(;t.length>1;){var r=t.pop(),n=r.obj[r.prop];if(p(n)){for(var e=[],o=0;o<n.length;++o)void 0!==n[o]&&e.push(n[o]);r.obj[r.prop]=e}}}(r),t},decode:function(t,r,n){var e=t.replace(/\+/g," ");if("iso-8859-1"===n)return e.replace(/%[0-9a-f]{2}/gi,unescape);try{return decodeURIComponent(e)}catch(t){return e}},encode:function(t,r,n,e,o){if(0===t.length)return t;var i=t;if("symbol"==typeof t?i=Symbol.prototype.toString.call(t):"string"!=typeof t&&(i=String(t)),"iso-8859-1"===n)return escape(i).replace(/%u[0-9a-f]{4}/gi,function(t){return"%26%23"+parseInt(t.slice(2),16)+"%3B"});for(var u="",f=0;f<i.length;++f){var a=i.charCodeAt(f);45===a||46===a||95===a||126===a||a>=48&&a<=57||a>=65&&a<=90||a>=97&&a<=122||o===s.RFC1738&&(40===a||41===a)?u+=i.charAt(f):a<128?u+=y[a]:a<2048?u+=y[192|a>>6]+y[128|63&a]:a<55296||a>=57344?u+=y[224|a>>12]+y[128|a>>6&63]+y[128|63&a]:(a=65536+((1023&a)<<10|1023&i.charCodeAt(f+=1)),u+=y[240|a>>18]+y[128|a>>12&63]+y[128|a>>6&63]+y[128|63&a])}return u},isBuffer:function(t){return!(!t||"object"!=typeof t||!(t.constructor&&t.constructor.isBuffer&&t.constructor.isBuffer(t)))},isRegExp:function(t){return"[object RegExp]"===Object.prototype.toString.call(t)},maybeMap:function(t,r){if(p(t)){for(var n=[],e=0;e<t.length;e+=1)n.push(r(t[e]));return n}return r(t)},merge:function t(r,n,e){if(!n)return r;if("object"!=typeof n){if(p(r))r.push(n);else{if(!r||"object"!=typeof r)return[r,n];(e&&(e.plainObjects||e.allowPrototypes)||!v.call(Object.prototype,n))&&(r[n]=!0)}return r}if(!r||"object"!=typeof r)return[r].concat(n);var o=r;return p(r)&&!p(n)&&(o=d(r,e)),p(r)&&p(n)?(n.forEach(function(n,o){if(v.call(r,o)){var i=r[o];i&&"object"==typeof i&&n&&"object"==typeof n?r[o]=t(i,n,e):r.push(n)}else r[o]=n}),r):Object.keys(n).reduce(function(r,o){var i=n[o];return r[o]=v.call(r,o)?t(r[o],i,e):i,r},o)}},h=Object.prototype.hasOwnProperty,m={brackets:function(t){return t+"[]"},comma:"comma",indices:function(t,r){return t+"["+r+"]"},repeat:function(t){return t}},g=Array.isArray,j=String.prototype.split,w=Array.prototype.push,O=function(t,r){w.apply(t,g(r)?r:[r])},E=Date.prototype.toISOString,R=s.default,S={addQueryPrefix:!1,allowDots:!1,charset:"utf-8",charsetSentinel:!1,delimiter:"&",encode:!0,encoder:b.encode,encodeValuesOnly:!1,format:R,formatter:s.formatters[R],indices:!1,serializeDate:function(t){return E.call(t)},skipNulls:!1,strictNullHandling:!1},T=function t(r,n,e,o,i,u,f,a,c,l,s,v,p,y){var d,h=r;if("function"==typeof f?h=f(n,h):h instanceof Date?h=l(h):"comma"===e&&g(h)&&(h=b.maybeMap(h,function(t){return t instanceof Date?l(t):t})),null===h){if(o)return u&&!p?u(n,S.encoder,y,"key",s):n;h=""}if("string"==typeof(d=h)||"number"==typeof d||"boolean"==typeof d||"symbol"==typeof d||"bigint"==typeof d||b.isBuffer(h)){if(u){var m=p?n:u(n,S.encoder,y,"key",s);if("comma"===e&&p){for(var w=j.call(String(h),","),E="",R=0;R<w.length;++R)E+=(0===R?"":",")+v(u(w[R],S.encoder,y,"value",s));return[v(m)+"="+E]}return[v(m)+"="+v(u(h,S.encoder,y,"value",s))]}return[v(n)+"="+v(String(h))]}var T,k=[];if(void 0===h)return k;if("comma"===e&&g(h))T=[{value:h.length>0?h.join(",")||null:void 0}];else if(g(f))T=f;else{var x=Object.keys(h);T=a?x.sort(a):x}for(var N=0;N<T.length;++N){var C=T[N],D="object"==typeof C&&void 0!==C.value?C.value:h[C];if(!i||null!==D){var F=g(h)?"function"==typeof e?e(n,C):n:n+(c?"."+C:"["+C+"]");O(k,t(D,F,e,o,i,u,f,a,c,l,s,v,p,y))}}return k},k=Object.prototype.hasOwnProperty,x=Array.isArray,N={allowDots:!1,allowPrototypes:!1,arrayLimit:20,charset:"utf-8",charsetSentinel:!1,comma:!1,decoder:b.decode,delimiter:"&",depth:5,ignoreQueryPrefix:!1,interpretNumericEntities:!1,parameterLimit:1e3,parseArrays:!0,plainObjects:!1,strictNullHandling:!1},C=function(t){return t.replace(/&#(\d+);/g,function(t,r){return String.fromCharCode(parseInt(r,10))})},D=function(t,r){return t&&"string"==typeof t&&r.comma&&t.indexOf(",")>-1?t.split(","):t},F=function(t,r,n,e){if(t){var o=n.allowDots?t.replace(/\.([^.[]+)/g,"[$1]"):t,i=/(\[[^[\]]*])/g,u=n.depth>0&&/(\[[^[\]]*])/.exec(o),f=u?o.slice(0,u.index):o,a=[];if(f){if(!n.plainObjects&&k.call(Object.prototype,f)&&!n.allowPrototypes)return;a.push(f)}for(var c=0;n.depth>0&&null!==(u=i.exec(o))&&c<n.depth;){if(c+=1,!n.plainObjects&&k.call(Object.prototype,u[1].slice(1,-1))&&!n.allowPrototypes)return;a.push(u[1])}return u&&a.push("["+o.slice(u.index)+"]"),function(t,r,n,e){for(var o=e?r:D(r,n),i=t.length-1;i>=0;--i){var u,f=t[i];if("[]"===f&&n.parseArrays)u=[].concat(o);else{u=n.plainObjects?Object.create(null):{};var a="["===f.charAt(0)&&"]"===f.charAt(f.length-1)?f.slice(1,-1):f,c=parseInt(a,10);n.parseArrays||""!==a?!isNaN(c)&&f!==a&&String(c)===a&&c>=0&&n.parseArrays&&c<=n.arrayLimit?(u=[])[c]=o:"__proto__"!==a&&(u[a]=o):u={0:o}}o=u}return o}(a,r,n,e)}},$=function(t,r){var n=function(t){if(!t)return N;if(null!=t.decoder&&"function"!=typeof t.decoder)throw new TypeError("Decoder has to be a function.");if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");return{allowDots:void 0===t.allowDots?N.allowDots:!!t.allowDots,allowPrototypes:"boolean"==typeof t.allowPrototypes?t.allowPrototypes:N.allowPrototypes,arrayLimit:"number"==typeof t.arrayLimit?t.arrayLimit:N.arrayLimit,charset:void 0===t.charset?N.charset:t.charset,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:N.charsetSentinel,comma:"boolean"==typeof t.comma?t.comma:N.comma,decoder:"function"==typeof t.decoder?t.decoder:N.decoder,delimiter:"string"==typeof t.delimiter||b.isRegExp(t.delimiter)?t.delimiter:N.delimiter,depth:"number"==typeof t.depth||!1===t.depth?+t.depth:N.depth,ignoreQueryPrefix:!0===t.ignoreQueryPrefix,interpretNumericEntities:"boolean"==typeof t.interpretNumericEntities?t.interpretNumericEntities:N.interpretNumericEntities,parameterLimit:"number"==typeof t.parameterLimit?t.parameterLimit:N.parameterLimit,parseArrays:!1!==t.parseArrays,plainObjects:"boolean"==typeof t.plainObjects?t.plainObjects:N.plainObjects,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:N.strictNullHandling}}(r);if(""===t||null==t)return n.plainObjects?Object.create(null):{};for(var e="string"==typeof t?function(t,r){var n,e={},o=(r.ignoreQueryPrefix?t.replace(/^\?/,""):t).split(r.delimiter,Infinity===r.parameterLimit?void 0:r.parameterLimit),i=-1,u=r.charset;if(r.charsetSentinel)for(n=0;n<o.length;++n)0===o[n].indexOf("utf8=")&&("utf8=%E2%9C%93"===o[n]?u="utf-8":"utf8=%26%2310003%3B"===o[n]&&(u="iso-8859-1"),i=n,n=o.length);for(n=0;n<o.length;++n)if(n!==i){var f,a,c=o[n],l=c.indexOf("]="),s=-1===l?c.indexOf("="):l+1;-1===s?(f=r.decoder(c,N.decoder,u,"key"),a=r.strictNullHandling?null:""):(f=r.decoder(c.slice(0,s),N.decoder,u,"key"),a=b.maybeMap(D(c.slice(s+1),r),function(t){return r.decoder(t,N.decoder,u,"value")})),a&&r.interpretNumericEntities&&"iso-8859-1"===u&&(a=C(a)),c.indexOf("[]=")>-1&&(a=x(a)?[a]:a),e[f]=k.call(e,f)?b.combine(e[f],a):a}return e}(t,n):t,o=n.plainObjects?Object.create(null):{},i=Object.keys(e),u=0;u<i.length;++u){var f=i[u],a=F(f,e[f],n,"string"==typeof t);o=b.merge(o,a,n)}return b.compact(o)},A=/*#__PURE__*/function(){function t(t,r,n){var e,o;this.name=t,this.definition=r,this.bindings=null!=(e=r.bindings)?e:{},this.wheres=null!=(o=r.wheres)?o:{},this.config=n}var n=t.prototype;return n.matchesUrl=function(t){var r=this;if(!this.definition.methods.includes("GET"))return!1;var n=this.template.replace(/(\/?){([^}?]*)(\??)}/g,function(t,n,e,o){var i,u="(?<"+e+">"+((null==(i=r.wheres[e])?void 0:i.replace(/(^\^)|(\$$)/g,""))||"[^/?]+")+")";return o?"("+n+u+")?":""+n+u}).replace(/^\w+:\/\//,""),e=t.replace(/^\w+:\/\//,"").split("?"),o=e[0],i=e[1],u=new RegExp("^"+n+"/?$").exec(o);return!!u&&{params:u.groups,query:$(i)}},n.compile=function(t){var r=this,n=this.parameterSegments;return n.length?this.template.replace(/{([^}?]+)(\??)}/g,function(e,o,i){var u,f,a;if(!i&&[null,void 0].includes(t[o]))throw new Error("Ziggy error: '"+o+"' parameter is required for route '"+r.name+"'.");if(n[n.length-1].name===o&&".*"===r.wheres[o])return encodeURIComponent(null!=(a=t[o])?a:"").replace(/%2F/g,"/");if(r.wheres[o]&&!new RegExp("^"+(i?"("+r.wheres[o]+")?":r.wheres[o])+"$").test(null!=(u=t[o])?u:""))throw new Error("Ziggy error: '"+o+"' parameter does not match required format '"+r.wheres[o]+"' for route '"+r.name+"'.");return encodeURIComponent(null!=(f=t[o])?f:"")}).replace(/\/+$/,""):this.template},r(t,[{key:"template",get:function(){return((this.config.absolute?this.definition.domain?""+this.config.url.match(/^\w+:\/\//)[0]+this.definition.domain+(this.config.port?":"+this.config.port:""):this.config.url:"")+"/"+this.definition.uri).replace(/\/+$/,"")}},{key:"parameterSegments",get:function(){var t,r;return null!=(t=null==(r=this.template.match(/{[^}?]+\??}/g))?void 0:r.map(function(t){return{name:t.replace(/{|\??}/g,""),required:!/\?}$/.test(t)}}))?t:[]}}]),t}(),P=/*#__PURE__*/function(t){var e,i;function u(r,e,o,i){var u;if(void 0===o&&(o=!0),(u=t.call(this)||this).t=null!=i?i:"undefined"!=typeof Ziggy?Ziggy:null==globalThis?void 0:globalThis.Ziggy,u.t=n({},u.t,{absolute:o}),r){if(!u.t.routes[r])throw new Error("Ziggy error: route '"+r+"' is not in the route list.");u.i=new A(r,u.t.routes[r],u.t),u.u=u.l(e)}return u}i=t,(e=u).prototype=Object.create(i.prototype),e.prototype.constructor=e,o(e,i);var f=u.prototype;return f.toString=function(){var t=this,r=Object.keys(this.u).filter(function(r){return!t.i.parameterSegments.some(function(t){return t.name===r})}).filter(function(t){return"_query"!==t}).reduce(function(r,e){var o;return n({},r,((o={})[e]=t.u[e],o))},{});return this.i.compile(this.u)+function(t,r){var n,e=t,o=function(t){if(!t)return S;if(null!=t.encoder&&"function"!=typeof t.encoder)throw new TypeError("Encoder has to be a function.");var r=t.charset||S.charset;if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");var n=s.default;if(void 0!==t.format){if(!h.call(s.formatters,t.format))throw new TypeError("Unknown format option provided.");n=t.format}var e=s.formatters[n],o=S.filter;return("function"==typeof t.filter||g(t.filter))&&(o=t.filter),{addQueryPrefix:"boolean"==typeof t.addQueryPrefix?t.addQueryPrefix:S.addQueryPrefix,allowDots:void 0===t.allowDots?S.allowDots:!!t.allowDots,charset:r,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:S.charsetSentinel,delimiter:void 0===t.delimiter?S.delimiter:t.delimiter,encode:"boolean"==typeof t.encode?t.encode:S.encode,encoder:"function"==typeof t.encoder?t.encoder:S.encoder,encodeValuesOnly:"boolean"==typeof t.encodeValuesOnly?t.encodeValuesOnly:S.encodeValuesOnly,filter:o,format:n,formatter:e,serializeDate:"function"==typeof t.serializeDate?t.serializeDate:S.serializeDate,skipNulls:"boolean"==typeof t.skipNulls?t.skipNulls:S.skipNulls,sort:"function"==typeof t.sort?t.sort:null,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:S.strictNullHandling}}(r);"function"==typeof o.filter?e=(0,o.filter)("",e):g(o.filter)&&(n=o.filter);var i=[];if("object"!=typeof e||null===e)return"";var u=m[r&&r.arrayFormat in m?r.arrayFormat:r&&"indices"in r?r.indices?"indices":"repeat":"indices"];n||(n=Object.keys(e)),o.sort&&n.sort(o.sort);for(var f=0;f<n.length;++f){var a=n[f];o.skipNulls&&null===e[a]||O(i,T(e[a],a,u,o.strictNullHandling,o.skipNulls,o.encode?o.encoder:null,o.filter,o.sort,o.allowDots,o.serializeDate,o.format,o.formatter,o.encodeValuesOnly,o.charset))}var c=i.join(o.delimiter),l=!0===o.addQueryPrefix?"?":"";return o.charsetSentinel&&(l+="iso-8859-1"===o.charset?"utf8=%26%2310003%3B&":"utf8=%E2%9C%93&"),c.length>0?l+c:""}(n({},r,this.u._query),{addQueryPrefix:!0,arrayFormat:"indices",encodeValuesOnly:!0,skipNulls:!0,encoder:function(t,r){return"boolean"==typeof t?Number(t):r(t)}})},f.v=function(t){var r=this;t?this.t.absolute&&t.startsWith("/")&&(t=this.p().host+t):t=this.h();var e={},o=Object.entries(this.t.routes).find(function(n){return e=new A(n[0],n[1],r.t).matchesUrl(t)})||[void 0,void 0];return n({name:o[0]},e,{route:o[1]})},f.h=function(){var t=this.p(),r=t.pathname,n=t.search;return(this.t.absolute?t.host+r:r.replace(this.t.url.replace(/^\w*:\/\/[^/]+/,""),"").replace(/^\/+/,"/"))+n},f.current=function(t,r){var e=this.v(),o=e.name,i=e.params,u=e.query,f=e.route;if(!t)return o;var a=new RegExp("^"+t.replace(/\./g,"\\.").replace(/\*/g,".*")+"$").test(o);if([null,void 0].includes(r)||!a)return a;var c=new A(o,f,this.t);r=this.l(r,c);var l=n({},i,u);return!(!Object.values(r).every(function(t){return!t})||Object.values(l).some(function(t){return void 0!==t}))||Object.entries(r).every(function(t){return l[t[0]]==t[1]})},f.p=function(){var t,r,n,e,o,i,u="undefined"!=typeof window?window.location:{},f=u.host,a=u.pathname,c=u.search;return{host:null!=(t=null==(r=this.t.location)?void 0:r.host)?t:void 0===f?"":f,pathname:null!=(n=null==(e=this.t.location)?void 0:e.pathname)?n:void 0===a?"":a,search:null!=(o=null==(i=this.t.location)?void 0:i.search)?o:void 0===c?"":c}},f.has=function(t){return Object.keys(this.t.routes).includes(t)},f.l=function(t,r){var e=this;void 0===t&&(t={}),void 0===r&&(r=this.i),t=["string","number"].includes(typeof t)?[t]:t;var o=r.parameterSegments.filter(function(t){return!e.t.defaults[t.name]});if(Array.isArray(t))t=t.reduce(function(t,r,e){var i,u;return n({},t,o[e]?((i={})[o[e].name]=r,i):"object"==typeof r?r:((u={})[r]="",u))},{});else if(1===o.length&&!t[o[0].name]&&(t.hasOwnProperty(Object.values(r.bindings)[0])||t.hasOwnProperty("id"))){var i;(i={})[o[0].name]=t,t=i}return n({},this.m(r),this.g(t,r))},f.m=function(t){var r=this;return t.parameterSegments.filter(function(t){return r.t.defaults[t.name]}).reduce(function(t,e,o){var i,u=e.name;return n({},t,((i={})[u]=r.t.defaults[u],i))},{})},f.g=function(t,r){var e=r.bindings,o=r.parameterSegments;return Object.entries(t).reduce(function(t,r){var i,u,f=r[0],a=r[1];if(!a||"object"!=typeof a||Array.isArray(a)||!o.some(function(t){return t.name===f}))return n({},t,((u={})[f]=a,u));if(!a.hasOwnProperty(e[f])){if(!a.hasOwnProperty("id"))throw new Error("Ziggy error: object passed as '"+f+"' parameter is missing route model binding key '"+e[f]+"'.");e[f]="id"}return n({},t,((i={})[f]=a[e[f]],i))},{})},f.valueOf=function(){return this.toString()},f.check=function(t){return this.has(t)},r(u,[{key:"params",get:function(){var t=this.v();return n({},t.params,t.query)}}]),u}(/*#__PURE__*/f(String));return function(t,r,n,e){var o=new P(t,r,n,e);return t?o.toString():o}});
+
+</script>        <script src="/web/20250214060525js_/https://jdih.pn-muarabungo.go.id/js/app.js" defer></script>
+    </head>
+    <body class="font-sans antialiased"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20250214060525/https%3A//jdih.pn-muarabungo.go.id/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://jdih.pn-muarabungo.go.id/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20250214060525" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20250214060525*/https://jdih.pn-muarabungo.go.id/" title="See a list of every capture for this URL">12 captures</a>
+          <div class="r" title="Timespan for captures of this URL">30 Oct 2023 - 14 Jun 2025</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="750" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240926053230/http://jdih.pn-muarabungo.go.id/" title="26 Sep 2024"><strong>Sep</strong></a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 06:05:25 Feb 14, 2025">FEB</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20250420100342/http://jdih.pn-muarabungo.go.id/" title="20 Apr 2025"><strong>Apr</strong></a></td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20240926053230/http://jdih.pn-muarabungo.go.id/" title="05:32:30 Sep 26, 2024"><img src="https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 06:05:25 Feb 14, 2025">14</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20250420100342/http://jdih.pn-muarabungo.go.id/" title="10:03:42 Apr 20, 2025"><img src="https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20231030040151/http://www.jdih.pn-muarabungo.go.id/" title="30 Oct 2023"><strong>2023</strong></a></td>
+            <td class="c" id="displayYearEl" title="You are here: 06:05:25 Feb 14, 2025">2025</td>
+            <td class="f" nowrap="nowrap">2026</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20250214060525/http://web.archive.org/screenshot/https://jdih.pn-muarabungo.go.id/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20250214060525/https://jdih.pn-muarabungo.go.id/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20250214060525/https://jdih.pn-muarabungo.go.id/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_urls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_urls" target="_new"><span class="wm-title">Archive Team: URLs</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20250214060525/https://jdih.pn-muarabungo.go.id/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(750,27,25,2,"web","https://jdih.pn-muarabungo.go.id/","20250214060525",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A","https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+        <div id="app" data-page="{&quot;component&quot;:&quot;Welcome&quot;,&quot;props&quot;:{&quot;errors&quot;:{},&quot;api_url&quot;:&quot;https:\/\/webservice.mahkamahagung.go.id\/jdih&quot;,&quot;jdih_url&quot;:&quot;https:\/\/jdih.mahkamahagung.go.id&quot;,&quot;menu&quot;:&quot;098900&quot;,&quot;kode_satker&quot;:&quot;098900&quot;},&quot;url&quot;:&quot;\/&quot;,&quot;version&quot;:&quot;01c4579a371bfff2e85f6e2fcb329e63&quot;}"></div>
+
+        
+        <script src="https://web.archive.org/web/20250214060525js_/https://maps.googleapis.com/maps/api/js?key=AIzaSyA0C5etf1GVmL_ldVAichWwFFVcDfa1y_c"></script>
+    </body>
+</html>
+<!--
+     FILE ARCHIVED ON 06:05:25 Feb 14, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:51:20 Jul 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.556
+  exclusion.robots: 0.094
+  exclusion.robots.policy: 0.054
+  esindex: 0.022
+  cdx.remote: 53.671
+  LoadShardBlock: 1129.139 (3)
+  PetaboxLoader3.datanode: 413.627 (5)
+  PetaboxLoader3.resolve: 641.241 (2)
+  load_resource: 864.04
+  loaddict: 212.278
+-->
